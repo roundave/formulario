@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="dsd" />
+    <string name="titulo">Formulario de registro</string>
+    <string name="Name">Name</string>
+    <string name="email">Email</string>
+    <string name="telefono">Telefono</string>
+    <string name="password">Password</string>
+    <string name="confirmar_password">Confirmar password</string>
+    <string name="guardar">Guardar</string>
+    <string name="error_contrasena">Las contraseñas no coinciden</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="cine">Cine</string>
+    <string name="videojuegos">Videojuegos</string>
+    <string name="cocinar">Cocinar</string>
+    <string name="ciudad_nacimiento">CIudad de nacimiento</string>
+    <string name="fecha">DD/MM/YY</string>
+    <string name="genero">Genero</string>
+
+    <string-array name="lista_ciudades">
+        <item>Seleccione una ciudad</item>
+        <item>Barranquilla</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Medellin</item>
+    </string-array>
+</resources>
